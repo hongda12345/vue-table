@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ueklight": "^1.0.3",
+    "uekcookie": "^1.0.2",
+    "uekquery": "^1.0.0",
+    "uekpost": "^1.0.0"
+  },
+  "devDependencies": {
+    "mysql": "^2.15.0",
+    "node-fetch": "^1.7.3"
+  }
+}
